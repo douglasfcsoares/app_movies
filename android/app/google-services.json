@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "41184956573",
+    "project_id": "app-movies-2c521",
+    "storage_bucket": "app-movies-2c521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41184956573:android:8a8d7682e51895ece50474",
+        "android_client_info": {
+          "package_name": "br.com.felixdevelopment.app_movies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy5dglb9w9RbJjgfQ8VXxyWVSBY5UmPXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
